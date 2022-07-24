@@ -1,4 +1,4 @@
-# Actuarial-IBNR-Calculations
+# Actuarial-Project-7-Completion-Factors
 Explores the calculation of IBNR Reserves using the “completion factor” method.
 
 #### Background
